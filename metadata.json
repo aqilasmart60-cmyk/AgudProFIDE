@@ -1,0 +1,6 @@
+{
+  "name": "ArbiterPro - Chess Tournament Management System & Chief Arbiter AI",
+  "description": "FIDE-compliant chess tournament pairing engine, Berger Round-Robin, Swiss system, tiebreak calculations (Buchholz, Sonneborn-Berger, Direct Encounter), and Chief Arbiter AI regulations advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
